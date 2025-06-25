@@ -40,4 +40,4 @@ UNESCO Dataset (or simulated source) – as the data source
 This project was created as part of a data visualization assignment to demonstrate how cultural data can be transformed into actionable insights using visual storytelling.
 
 # Live Dashboard
-🔗 View the dashboard on Tableau Public
+🔗 [View the dashboard on Tableau Public](https://public.tableau.com/shared/DPBFBMND4?:display_count=n&:origin=viz_share_link)
