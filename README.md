@@ -1,43 +1,51 @@
-## World Heritage Sites Dashboard
+🌍 World Heritage Sites Dashboard
+
 Created by Arjun | Tableau Public Edition
 
-# Project Overview
-This Tableau project visualizes the distribution and trends of UNESCO World Heritage Sites across different countries, regions, and time periods. The goal is to uncover patterns in how cultural and natural heritage has been recognized and preserved globally.
+📌 Project Overview
 
-# Key Features
--> Map of World Heritage Sites by Country
-An interactive world map showing site distribution, color-coded by region.
+This Tableau dashboard explores the global distribution and evolution of UNESCO World Heritage Sites across countries, regions, and time. The project focuses on uncovering geographic patterns and historical trends in how cultural and natural heritage sites have been recognized worldwide through interactive visual storytelling.
 
-# Treemap of Sites by Region and Country
-A comparative view of top countries based on the number of heritage sites.
+✨ Key Features
 
-# Yearly Trend of Site Inscriptions
-A time-series chart from 1978 to 2024 showing how heritage recognition has evolved.
+Interactive World Map of Heritage Sites
+Displays the global distribution of World Heritage Sites by country, color-coded by region for easy comparison.
 
-# Countries per Region
-A bar chart highlighting how many countries per region have at least one heritage site.
+Treemap of Sites by Region and Country
+Highlights leading countries within each region based on the number of recognized heritage sites.
 
-# Bubble Chart of Total Sites per Region
-A high-level overview of total sites recognized in each global region.
+Yearly Trend of Site Inscriptions
+A time-series visualization showing the growth of World Heritage Site inscriptions from 1978 to the latest available data.
 
-# Insights Gained
-Europe and Asia have the highest number of recognized sites.
+Countries per Region Analysis
+Bar chart representing how many countries in each region have at least one World Heritage Site.
 
-2001 saw the peak in site inscriptions with over 60 new entries.
+Bubble Chart of Total Sites per Region
+Provides a high-level comparison of total recognized sites across global regions.
 
-Regions like the Arab States and Asia-Pacific show potential for heritage growth.
+📊 Key Insights
 
-A strong upward trend in heritage recognition was seen in the 1990s and early 2000s.
+Europe and Asia dominate in terms of total recognized World Heritage Sites.
 
-# Tools Used
-Tableau Desktop Public Edition – for data visualization
+The year 2001 recorded the highest number of new site inscriptions, with over 60 additions.
 
-Mapbox & OpenStreetMap – for geospatial map rendering
+A strong upward trend in heritage recognition is visible during the 1990s and early 2000s.
 
-UNESCO Dataset (or simulated source) – as the data source
+Regions such as the Arab States and Asia-Pacific currently have fewer sites, indicating potential for future heritage recognition.
 
-# Purpose
-This project was created as part of a data visualization assignment to demonstrate how cultural data can be transformed into actionable insights using visual storytelling.
+🛠️ Tools & Technologies Used
 
-# Live Dashboard
-🔗 [View the dashboard on Tableau Public]([https://public.tableau.com/shared/DPBFBMND4?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/finaltableauproject_17503940108380/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+Tableau Desktop (Public Edition) – Dashboard creation and data visualization
+
+Built-in Tableau Maps powered by Mapbox & OpenStreetMap – Geospatial visualization
+
+UNESCO World Heritage Dataset (official or simulated) – Data source
+
+🎯 Project Purpose
+
+This project was developed as part of a data visualization assignment to demonstrate practical skills in transforming cultural datasets into meaningful insights using interactive dashboards and visual storytelling techniques.
+
+🔗 Live Dashboard
+
+👉 View the dashboard on Tableau Public:
+https://public.tableau.com/views/finaltableauproject_17503940108380/Dashboard1
